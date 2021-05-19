@@ -1,6 +1,6 @@
 ## Stochastic Coordination in Heterogeneous Load Balancing Systems
 
-This repository constains the implementation of our stochastic coordination dispatching policies (SCD) from our paper in PODC 2021.
+This repository contains the implementation of our stochastic coordination dispatching policies (SCD) from our paper in PODC 2021.
 
 ### Abstract
 
